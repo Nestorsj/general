@@ -2,3 +2,5 @@ Nueva frase en archivo
 Introduzco una nueva frase
 Tercera linea desde rama
 Cuarta linea desde master
+Una quinta linea que era cuarta desde rama2 para resolver conflicto
+
